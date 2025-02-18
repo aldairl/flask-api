@@ -18,7 +18,7 @@ Activate the environment
 linux:
 
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 Windows:
